@@ -44,16 +44,16 @@ var I = e(a(), 1),
     S = [{
         icon: N,
         title: "Comunidade",
-        desc: "+20.000 profissionais. Networking, dÃºvidas e projetos reais.",
+        desc: "+20.000 profissionais. Networking, dúvidas e projetos reais.",
         wide: !0
     }, {
         icon: x,
         title: "8 cursos",
-        desc: "330+ aulas prÃ¡ticas sobre o que o mercado usa agora."
+        desc: "330+ aulas práticas sobre o que o mercado usa agora."
     }, {
         icon: h,
         title: "Certificados",
-        desc: "Reconhecimento formal para o seu portfÃ³lio."
+        desc: "Reconhecimento formal para o seu portfólio."
     }, {
         icon: d,
         title: "Aura AI",
@@ -62,16 +62,16 @@ var I = e(a(), 1),
         wide: !0
     }, {
         icon: k,
-        title: "1 mÃªs de LTX grÃ¡tis",
-        desc: "Acesso gratuito ao LTX Studio incluso no primeiro mÃªs."
+        title: "1 mês de LTX grátis",
+        desc: "Acesso gratuito ao LTX Studio incluso no primeiro mês."
     }, {
         icon: p,
-        title: "Suporte e atualizaÃ§Ãµes",
-        desc: "ConteÃºdo sempre atualizado enquanto vocÃª for assinante."
+        title: "Suporte e atualizações",
+        desc: "Conteúdo sempre atualizado enquanto você for assinante."
     }, {
         icon: u,
         title: "Replays de eventos",
-        desc: "Todas as aulas ao vivo organizadas e disponÃ­veis."
+        desc: "Todas as aulas ao vivo organizadas e disponíveis."
     }, {
         icon: x,
         title: "Biblioteca de Prompts",
@@ -83,13 +83,13 @@ var I = e(a(), 1),
     }, {
         icon: v,
         title: "Vagas",
-        desc: "Oportunidades exclusivas para profissionais com domÃ­nio em IA."
+        desc: "Oportunidades exclusivas para profissionais com domínio em IA."
     }],
-    W = ["14 aulas prÃ¡ticas, do briefing Ã  primeira criaÃ§Ã£o", "Pack de +60 prompts (texto, imagem e vÃ­deo)", "2 ferramentas exclusivas do Human Labs", "1 mÃªs de LTX Studio para praticar", "Certificado ao final"],
+    W = ["14 aulas práticas, do briefing   primeira criação", "Pack de +60 prompts (texto, imagem e vídeo)", "2 ferramentas exclusivas do Human Labs", "1 mês de LTX Studio para praticar", "Certificado ao final"],
     P = [{
         label: "Cursos e aulas",
-        starter: "1 curso, 14 aulas prÃ¡ticas",
-        pass: "8 cursos, 330+ aulas prÃ¡ticas"
+        starter: "1 curso, 14 aulas práticas",
+        pass: "8 cursos, 330+ aulas práticas"
     }, {
         label: "Pack de +60 prompts",
         starter: !0,
@@ -99,7 +99,7 @@ var I = e(a(), 1),
         starter: "2 ferramentas",
         pass: "20+ ferramentas"
     }, {
-        label: "1 mÃªs de LTX Studio",
+        label: "1 mês de LTX Studio",
         starter: !0,
         pass: !0
     }, {
@@ -133,34 +133,34 @@ var I = e(a(), 1),
         price: "R$ 152,60",
         installments: "12x",
         period: "2 anos de acesso",
-        cashPrice: "Ã€ vista R$1.831,20",
+        cashPrice: "€ vista R$1.831,20",
         discount: "20% OFF",
         highlight: !1,
-        desc: "Impulsione sua carreira com os melhores cursos e faÃ§a parte da maior comunidade criativa.",
-        features: ["23 Trilhas", "Todos os Cursos", "Acesso por 2 anos", "Certificado", "Mentorias em grupo", "Comunidade exclusiva", "ConteÃºdo das ImersÃµes", "App mobile"]
+        desc: "Impulsione sua carreira com os melhores cursos e faça parte da maior comunidade criativa.",
+        features: ["23 Trilhas", "Todos os Cursos", "Acesso por 2 anos", "Certificado", "Mentorias em grupo", "Comunidade exclusiva", "Conteúdo das Imersões", "App mobile"]
     }, {
         name: "Pro",
         oldPrice: "R$ 285",
         price: "R$ 199,75",
         installments: "12x",
         period: "1 ano de acesso",
-        cashPrice: "Ã€ vista R$2.397",
+        cashPrice: "€ vista R$2.397",
         discount: "20% OFF",
         highlight: !0,
         badge: "Mais popular",
         desc: "Acelere seu aprendizado com a IA da Human e prepare-se para o mercado internacional.",
-        features: ["Tudo do Plus", "Aura IA, a inteligÃªncia artificial da Human", "MultilÃ­ngue â€” InglÃªs e Espanhol"]
+        features: ["Tudo do Plus", "Aura IA, a inteligência artificial da Human", "Multilíngue â€” Inglês e Espanhol"]
     }, {
         name: "Expert",
         oldPrice: "R$ 598",
         price: "R$ 418,60",
         installments: "12x",
         period: "2 anos de acesso",
-        cashPrice: "Ã€ vista R$5.023,20",
+        cashPrice: "€ vista R$5.023,20",
         discount: "20% OFF",
         highlight: !1,
-        desc: "Para profissionais ultra comprometidos atingirem seu objetivo mais rÃ¡pido.",
-        features: ["Tudo do Pro", "Aura IA com mensagens ILIMITADAS", "Aura Vision, a IA que enxerga suas dÃºvidas", "E-books exclusivos", "Talent Lab â€” mentorias individuais e vagas exclusivas"]
+        desc: "Para profissionais ultra comprometidos atingirem seu objetivo mais rápido.",
+        features: ["Tudo do Pro", "Aura IA com mensagens ILIMITADAS", "Aura Vision, a IA que enxerga suas dúvidas", "E-books exclusivos", "Talent Lab â€” mentorias individuais e vagas exclusivas"]
     }],
     z = () => {
         const {
@@ -344,7 +344,7 @@ var I = e(a(), 1),
                             ref: E,
                             src: p || q,
                             className: "w-full h-full border-0",
-                            title: "InscriÃ§Ã£o NurseHub",
+                            title: "Inscrição NurseHub",
                             allow: "payment",
                             onLoad: B
                         })]
@@ -597,7 +597,7 @@ var I = e(a(), 1),
                                         })]
                                     }), (0, R.jsx)("p", {
                                         className: "mt-3 md:mt-4 text-center font-body text-white/75 text-sm",
-                                        children: "R$ 2.847 Ã  vista"
+                                        children: "R$ 2.847   vista"
                                     }), (0, R.jsx)("div", {
                                         className: "mt-6 md:mt-7 flex flex-wrap items-center justify-center gap-1.5",
                                         children: ["Aura AI", "8 cursos", "+20.000 profissionais", "20+ ferramentas"].map(e => (0, R.jsx)("span", {
@@ -667,7 +667,7 @@ var I = e(a(), 1),
                                         })]
                                     }), (0, R.jsx)("ul", {
                                         className: "mt-5 md:mt-6 flex flex-col items-center gap-2.5",
-                                        children: ["7 dias de garantia", "Acesso imediato Ã  plataforma"].map(e => (0, R.jsxs)("li", {
+                                        children: ["7 dias de garantia", "Acesso imediato   plataforma"].map(e => (0, R.jsxs)("li", {
                                             className: "flex items-center gap-1.5 font-body text-[10.5px] md:text-[11px] tracking-[0.18em] uppercase text-white/55",
                                             children: [(0, R.jsx)(c, {
                                                 className: "w-[14px] h-[14px] text-primary",
@@ -705,7 +705,7 @@ var I = e(a(), 1),
                                     })]
                                 }), (0, R.jsx)("p", {
                                     className: "mt-4 max-w-[52ch] mx-auto font-body text-white/55 text-[14px] md:text-[15px] leading-[1.55]",
-                                    children: "Um caminho direto para sair do zero, entender o workflow e criar suas primeiras peÃ§as com IA."
+                                    children: "Um caminho direto para sair do zero, entender o workflow e criar suas primeiras peças com IA."
                                 })]
                             }), (0, R.jsxs)("div", {
                                 className: "relative rounded-3xl overflow-hidden backdrop-blur-xl",
@@ -781,7 +781,7 @@ var I = e(a(), 1),
                                             })]
                                         }), (0, R.jsx)("p", {
                                             className: "mt-3 font-body text-white/65 text-[12.5px]",
-                                            children: "R$ 497 Ã  vista"
+                                            children: "R$ 497   vista"
                                         }), (0, R.jsxs)("div", {
                                             className: "mt-6 flex flex-col gap-2.5 w-full md:w-auto",
                                             children: [(0, R.jsxs)("a", {
