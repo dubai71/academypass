@@ -44,7 +44,7 @@ var I = e(a(), 1),
     S = [{
         icon: N,
         title: "Comunidade",
-        desc: "+20.000 criativos. Networking, dÃºvidas e projetos reais.",
+        desc: "+20.000 profissionais. Networking, dÃºvidas e projetos reais.",
         wide: !0
     }, {
         icon: x,
@@ -83,7 +83,7 @@ var I = e(a(), 1),
     }, {
         icon: v,
         title: "Vagas",
-        desc: "Oportunidades exclusivas para criativos com domÃ­nio em IA."
+        desc: "Oportunidades exclusivas para profissionais com domÃ­nio em IA."
     }],
     W = ["14 aulas prÃ¡ticas, do briefing Ã  primeira criaÃ§Ã£o", "Pack de +60 prompts (texto, imagem e vÃ­deo)", "2 ferramentas exclusivas do Human Labs", "1 mÃªs de LTX Studio para praticar", "Certificado ao final"],
     P = [{
@@ -109,7 +109,7 @@ var I = e(a(), 1),
     }, {
         label: "Comunidade",
         starter: !1,
-        pass: "+20.000 criativos"
+        pass: "+20.000 profissionais"
     }, {
         label: "Aura AI",
         starter: !1,
@@ -159,7 +159,7 @@ var I = e(a(), 1),
         cashPrice: "Ã€ vista R$5.023,20",
         discount: "20% OFF",
         highlight: !1,
-        desc: "Para criativos ultra comprometidos atingirem seu objetivo mais rÃ¡pido.",
+        desc: "Para profissionais ultra comprometidos atingirem seu objetivo mais rÃ¡pido.",
         features: ["Tudo do Pro", "Aura IA com mensagens ILIMITADAS", "Aura Vision, a IA que enxerga suas dÃºvidas", "E-books exclusivos", "Talent Lab â€” mentorias individuais e vagas exclusivas"]
     }],
     z = () => {
@@ -301,7 +301,7 @@ var I = e(a(), 1),
                                 },
                                 children: [(0, R.jsx)(i.img, {
                                     src: "/assets/logo-academy-pass-B2qG8qtb.png",
-                                    alt: "Academy Pass",
+                                    alt: "NurseHub Pass",
                                     className: "h-10 object-contain",
                                     initial: {
                                         opacity: 0,
@@ -344,7 +344,7 @@ var I = e(a(), 1),
                             ref: E,
                             src: p || q,
                             className: "w-full h-full border-0",
-                            title: "InscriÃ§Ã£o Human Academy",
+                            title: "InscriÃ§Ã£o NurseHub",
                             allow: "payment",
                             onLoad: B
                         })]
@@ -513,7 +513,7 @@ var I = e(a(), 1),
                                     className: "relative aspect-[16/10] lg:aspect-[1.9/1] overflow-hidden bg-[#0E0E10]",
                                     children: [(0, R.jsx)("img", {
                                         src: "/banner.jpg",
-                                        alt: "Academy Pass",
+                                        alt: "NurseHub Pass",
                                         className: "absolute inset-0 w-full h-full object-cover",
                                         draggable: !1
                                     }), (0, R.jsx)("div", {
@@ -600,7 +600,7 @@ var I = e(a(), 1),
                                         children: "R$ 2.847 Ã  vista"
                                     }), (0, R.jsx)("div", {
                                         className: "mt-6 md:mt-7 flex flex-wrap items-center justify-center gap-1.5",
-                                        children: ["Aura AI", "8 cursos", "+20.000 criativos", "20+ ferramentas"].map(e => (0, R.jsx)("span", {
+                                        children: ["Aura AI", "8 cursos", "+20.000 profissionais", "20+ ferramentas"].map(e => (0, R.jsx)("span", {
                                             className: "inline-flex items-center font-body text-[10.5px] md:text-[11px] tracking-[0.04em] text-white/75 bg-white/[0.04] border border-white/10 rounded-full px-2.5 py-1",
                                             children: e
                                         }, e))
@@ -810,7 +810,7 @@ var I = e(a(), 1),
                                     }), (0, R.jsx)("a", {
                                         href: "#pass",
                                         className: "font-body text-[11.5px] md:text-[12px] text-white/85 hover:text-white underline underline-offset-2 decoration-white/30 hover:decoration-white/70 transition-colors",
-                                        children: "Academy Pass"
+                                        children: "NurseHub Pass"
                                     })]
                                 })]
                             })]
@@ -865,7 +865,7 @@ var I = e(a(), 1),
                                         className: "text-center",
                                         children: [(0, R.jsx)("div", {
                                             className: "font-body text-[9.5px] tracking-[0.22em] uppercase text-white/55",
-                                            children: "Academy Pass"
+                                            children: "NurseHub Pass"
                                         }), (0, R.jsx)("div", {
                                             className: "mt-1 font-display font-medium text-white text-[14px] md:text-[16px]",
                                             children: "R$ 2.847"

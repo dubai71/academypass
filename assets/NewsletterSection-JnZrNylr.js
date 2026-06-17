@@ -147,7 +147,7 @@ var p = e(a(), 1),
                             })]
                         }), (0, u.jsxs)("p", {
                             className: "text-[10px] text-white/20 font-body mt-3",
-                            children: ["+48k criativos jÃ¡ recebem Â· Cancele quando quiser Â·", " ", (0, u.jsx)("a", {
+                            children: ["+48k profissionais jÃ¡ recebem Â· Cancele quando quiser Â·", " ", (0, u.jsx)("a", {
                                 href: "https://humanupdate.substack.com",
                                 target: "_blank",
                                 rel: "noopener noreferrer",

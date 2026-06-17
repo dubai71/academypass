@@ -104,7 +104,7 @@ var s = e(),
                                     ease: r
                                 },
                                 className: "block font-body text-[11px] md:text-[11px] text-primary tracking-[0.24em] uppercase mb-5 md:mb-7",
-                                children: "Pessoas reais. Criação real."
+                                children: "Você não precisa abandonar a enfermagem."
                             }), (0, s.jsxs)(a.p, {
                                 initial: {
                                     opacity: 0,

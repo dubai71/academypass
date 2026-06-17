@@ -1,4 +1,4 @@
-﻿const __vite__mapDeps = (i, m = __vite__mapDeps, d = (m.f || (m.f = ["assets/TextQuote-9YY9XBIi.js", "assets/query-BYnN4WbX.js", "assets/rolldown-runtime-C_ttsnZz.js", "assets/ui-BxzeyedK.js", "assets/TestimonialQuote-DZJ26ZsZ.js", "assets/LazyVideo-DeC_6Cb6.js", "assets/use-mobile-CjgID_fb.js", "assets/TresPilares-DBO2Ctq6.js", "assets/AuraStarIcon-ChQKhU1n.js", "assets/InlineCTA-C8gn7lR2.js", "assets/OQueTemDentro-Du6Ll8L-.js", "assets/CursosDestaque-DmDb4BDt.js", "assets/vendor-DRGPM_Mv.js", "assets/ComoFunciona-DVHzHciK.js", "assets/FerramentasGrid-B_rrSG52.js", "assets/JourneyPerfil-CyjxP6wo.js", "assets/ProfessoresSection-BCMzisS3.js", "assets/ProvaSocial-DHJbl6rJ.js", "assets/AcademyPass-BcN7bbEV.js", "assets/PreCheckoutModal-DNIyQdgw.js", "assets/FAQSection-bGXkXOnu.js", "assets/dist-BpxoO9O6.js", "assets/dist-DkmQ2f8N.js", "assets/dist-HsHFUleU.js", "assets/dist-C-5kN4J5.js", "assets/dist-CWjR5XLY.js", "assets/ConteudosSection-SYsy-irX.js", "assets/NewsletterSection-JnZrNylr.js", "assets/input-CVvwpgQW.js", "assets/Empresas-RuxyY8uP.js", "assets/label-DYYqw-kw.js", "assets/ConteudosHub-BXCPbFHd.js", "assets/Contato-B-5RsU5m.js", "assets/es2015-B8jlJ_Um.js", "assets/tslib.es6-B44ydMPJ.js", "assets/Privacidade-D3F0GGvx.js", "assets/Termos-D6U7LHPR.js", "assets/Cursos-w3sodpJr.js", "assets/CoursePage-CfwnTEC_.js", "assets/Planos-DnixhDti.js", "assets/Pass-BKmq_Pph.js", "assets/OQueTemDentro-BieMWUFW.js", "assets/AdminLogin-BW9KZR9Y.js", "assets/MFAEnroll-CN_NU26Z.js", "assets/AdminDashboard-DfYvZBCz.js", "assets/hooks-CT0VP7IX.js", "assets/FAQ-Dm6QG6lb.js", "assets/Blog-BCvfJUg8.js", "assets/seo-C8FjEaV2.js", "assets/BlogPost-xE81KuRE.js", "assets/Experience-Dtqj6GuJ.js", "assets/Starter-DyYIvAmu.js", "assets/StarterSuccess-BCN55LhB.js", "assets/PrimeiroAgente-C_8Q8Dgl.js", "assets/NotFound-BxutNAbG.js"]))) => i.map(i => d[i]);
+﻿const __vite__mapDeps = (i, m = __vite__mapDeps, d = (m.f || (m.f = ["assets/TextQuote-9YY9XBIi.js", "assets/query-BYnN4WbX.js", "assets/rolldown-runtime-C_ttsnZz.js", "assets/ui-BxzeyedK.js", "assets/TestimonialQuote-DZJ26ZsZ.js", "assets/LazyVideo-DeC_6Cb6.js", "assets/use-mobile-CjgID_fb.js", "assets/TresPilares-DBO2Ctq6.js", "assets/AuraStarIcon-ChQKhU1n.js", "assets/InlineCTA-C8gn7lR2.js", "assets/OQueTemDentro-Du6Ll8L-.js", "assets/CursosDestaque-DmDb4BDt.js", "assets/vendor-DRGPM_Mv.js", "assets/ComoFunciona-DVHzHciK.js", "assets/FerramentasGrid-B_rrSG52.js", "assets/JourneyPerfil-CyjxP6wo.js", "assets/ProfessoresSection-BCMzisS3.js", "assets/ProvaSocial-DHJbl6rJ.js", "assets/NurseHub-BcN7bbEV.js", "assets/PreCheckoutModal-DNIyQdgw.js", "assets/FAQSection-bGXkXOnu.js", "assets/dist-BpxoO9O6.js", "assets/dist-DkmQ2f8N.js", "assets/dist-HsHFUleU.js", "assets/dist-C-5kN4J5.js", "assets/dist-CWjR5XLY.js", "assets/ConteudosSection-SYsy-irX.js", "assets/NewsletterSection-JnZrNylr.js", "assets/input-CVvwpgQW.js", "assets/Empresas-RuxyY8uP.js", "assets/label-DYYqw-kw.js", "assets/ConteudosHub-BXCPbFHd.js", "assets/Contato-B-5RsU5m.js", "assets/es2015-B8jlJ_Um.js", "assets/tslib.es6-B44ydMPJ.js", "assets/Privacidade-D3F0GGvx.js", "assets/Termos-D6U7LHPR.js", "assets/Cursos-w3sodpJr.js", "assets/CoursePage-CfwnTEC_.js", "assets/Planos-DnixhDti.js", "assets/Pass-BKmq_Pph.js", "assets/OQueTemDentro-BieMWUFW.js", "assets/AdminLogin-BW9KZR9Y.js", "assets/MFAEnroll-CN_NU26Z.js", "assets/AdminDashboard-DfYvZBCz.js", "assets/hooks-CT0VP7IX.js", "assets/FAQ-Dm6QG6lb.js", "assets/Blog-BCvfJUg8.js", "assets/seo-C8FjEaV2.js", "assets/BlogPost-xE81KuRE.js", "assets/Experience-Dtqj6GuJ.js", "assets/Starter-DyYIvAmu.js", "assets/StarterSuccess-BCN55LhB.js", "assets/PrimeiroAgente-C_8Q8Dgl.js", "assets/NotFound-BxutNAbG.js"]))) => i.map(i => d[i]);
 import {
     a as e,
     r as t,
@@ -50003,7 +50003,7 @@ var hz, lz = {
         oQueTemDentro: [{
             id: crypto.randomUUID(),
             icon: "",
-            label: "CURSOS",
+            label: "TRILHAS",
             title: "Cursos e Aulas",
             desc: "Curadoria e prÃ¡tica. O que funciona no mundo real. Cada curso tem um recorte claro â€” sem enrolaÃ§Ã£o, sem mÃ³dulo de preenchimento.",
             cta: "Conhecer cursos",
@@ -50014,7 +50014,7 @@ var hz, lz = {
             icon: "",
             label: "AURA IA",
             title: "Aura, a IA que te acompanha estudando.",
-            desc: "A IA da Human que monta sua trilha de aprendizado no ritmo certo.",
+            desc: "A IA do NurseHub que monta sua trilha de aprendizado no ritmo certo.",
             cta: "Ver a Aura",
             ctaLink: "/aura",
             tags: ["Contextual", "Plano de estudo", "RevisÃ£o"]
@@ -50041,10 +50041,10 @@ var hz, lz = {
             icon: "",
             label: "COMUNIDADE",
             title: "Comunidade",
-            desc: "Pergunta boa, resposta boa. Suporte e troca de processo entre criativos que estÃ£o construindo com IA no dia a dia.",
+            desc: "Pergunta boa, resposta boa. Suporte e troca entre profissionais que estÃ£o construindo com IA no dia a dia.",
             cta: "Conhecer a comunidade",
             ctaLink: "/comunidade",
-            tags: ["+13.000 criativos", "Troca real", "Suporte"]
+            tags: ["+13.000 profissionais", "Troca real", "Suporte"]
         }, {
             id: crypto.randomUUID(),
             icon: "",
@@ -50092,7 +50092,7 @@ var hz, lz = {
             name: "Ana Beatriz",
             handle: "@anab.design",
             avatar: "https://i.pravatar.cc/150?img=9",
-            text: "Meus clientes notaram a diferenÃ§a na qualidade. Vale cada centavo do Academy Pass."
+            text: "Meus clientes notaram a diferenÃ§a na qualidade. Vale cada centavo do NurseHub Pass."
         }, {
             id: crypto.randomUUID(),
             type: "video",
@@ -50252,7 +50252,7 @@ var hz, lz = {
             cashPrice: "Ã€ vista R$5.023,20",
             discount: "20% OFF",
             highlight: !1,
-            desc: "Para criativos ultra comprometidos atingirem seu objetivo mais rÃ¡pido.",
+            desc: "Para profissionais ultra comprometidos atingirem seu objetivo mais rÃ¡pido.",
             features: ["Tudo do Pro", "Aura IA com mensagens ILIMITADAS", "Aura Vision, a IA que enxerga suas dÃºvidas", "E-books exclusivos", "Talent Lab â€” mentorias individuais e vagas exclusivas"]
         }],
         faq: [{
@@ -50332,7 +50332,7 @@ var hz, lz = {
         }, {
             id: crypto.randomUUID(),
             title: "Comunidade",
-            desc: "Networking com criativos do Brasil.",
+            desc: "Networking com profissionais da enfermagem no Brasil.",
             icon: "Users",
             x: 65,
             y: 65
@@ -50363,7 +50363,7 @@ var hz, lz = {
             name: "Rafael Motta",
             role: "Head de CriaÃ§Ã£o & IA",
             image: "",
-            desc: "Mais de 10 anos liderando projetos criativos em grandes agÃªncias. Especialista em integrar IA generativa ao fluxo criativo, do conceito Ã  entrega final."
+            desc: "Mais de 10 anos liderando projetos de saude digital em grandes agÃªncias. Especialista em integrar IA generativa ao fluxo criativo, do conceito Ã  entrega final."
         }, {
             id: crypto.randomUUID(),
             name: "Lucas Andrade",
@@ -50387,7 +50387,7 @@ var hz, lz = {
             name: "AndrÃ© Bastos",
             role: "Developer & No-Code",
             image: "",
-            desc: "Full-stack developer que transita entre cÃ³digo e no-code. Especialista em Cursor, Lovable e automaÃ§Ãµes inteligentes para criativos."
+            desc: "Full-stack developer que transita entre cÃ³digo e no-code. Especialista em Cursor, Lovable e automaÃ§Ãµes inteligentes para enfermagem."
         }, {
             id: crypto.randomUUID(),
             name: "Felipe Duarte",
@@ -50459,7 +50459,7 @@ var hz, lz = {
             })()
         }, []);
         const o = (0, ye.useCallback)((e, t) => {
-                if ("cursos" === e) return void jT.error("Cursos sÃ£o gerenciados pela API do Academy Pass. Edite na fonte original.");
+                if ("cursos" === e) return void jT.error("Cursos sÃ£o gerenciados pela API do NurseHub Pass. Edite na fonte original.");
                 const r = n.current[e];
                 a(a => ({ ...a,
                     [e]: t
@@ -52004,7 +52004,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                                                 children: "VocÃª se inscreveu pra"
                                             }), (0, bt.jsx)("img", {
                                                 src: IB,
-                                                alt: "Academy Pass",
+                                                alt: "NurseHub Pass",
                                                 className: "h-6 w-auto object-contain",
                                                 draggable: !1
                                             }), (0, bt.jsx)("div", {
@@ -52074,16 +52074,16 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                                             phone: s,
                                             fields: {
                                                 country: a.code,
-                                                product: "Academy Pass",
+                                                product: "NurseHub Pass",
                                                 submittedAt: (new Date).toISOString()
                                             },
                                             tags: ["APASS - Interesse checkout"]
                                         });
                                     l(!1), d.ok ? (CB({
-                                        contentName: "Academy Pass - Interesse checkout",
+                                        contentName: "NurseHub Pass - Interesse checkout",
                                         contentCategory: "checkout_interest",
                                         source: "pass-interest-modal",
-                                        product: "Academy Pass",
+                                        product: "NurseHub Pass",
                                         status: "submitted"
                                     }), p(!0)) : k("NÃ£o foi possÃ­vel enviar agora. Tenta de novo em alguns segundos ou fala com a gente no WhatsApp.")
                                 },
@@ -52110,7 +52110,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                                     className: "flex items-center gap-3 mb-6",
                                     children: (0, bt.jsx)("img", {
                                         src: IB,
-                                        alt: "Academy Pass",
+                                        alt: "NurseHub Pass",
                                         className: "h-7 w-auto object-contain",
                                         draggable: !1
                                     })
@@ -52246,7 +52246,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
         href: "https://tv.humanacademy.ai/"
     }, {
         label: "Podcast",
-        desc: "Conversas com profissionais criativos",
+        desc: "Conversas com profissionais de saúde",
         icon: $v,
         href: "https://open.spotify.com/show/2PPKluHDKjqf2KXSEBb2aw"
     }, {
@@ -52405,7 +52405,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                     className: "flex items-center shrink-0 pointer-events-auto relative z-10",
                     children: (0, bt.jsx)("img", {
                         src: Lz,
-                        alt: "Human Academy",
+                        alt: "NurseHub",
                         className: "h-4 w-auto transition-all duration-500 " + (c ? "brightness-0 opacity-70 hover:opacity-100" : "brightness-0 invert opacity-80 hover:opacity-100")
                     })
                 }), (0, bt.jsx)("div", {
@@ -52750,7 +52750,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                         className: "mb-14 md:mb-20",
                         children: (0, bt.jsx)("img", {
                             src: "/assets/pass.svg",
-                            alt: "Human Pass",
+                            alt: "NurseHub Pass",
                             className: "h-8 md:h-9 w-auto opacity-90",
                             draggable: !1
                         })
@@ -52827,7 +52827,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                         children: [(0, bt.jsx)("p", {
                             className: "font-body text-[11px] text-white/30 cursor-default",
                             onDoubleClick: () => e("/admin"),
-                            children: "Â© 2026 Human Academy"
+                            children: "Â© 2026 NurseHub®"
                         }), (0, bt.jsxs)("div", {
                             className: "flex gap-6",
                             children: [(0, bt.jsx)(I, {
@@ -53093,7 +53093,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                     className: "relative z-10 w-full px-5 md:px-10 max-w-[960px] mx-auto text-center pt-28 pb-28 md:pt-32 md:pb-32",
                     children: [(0, bt.jsxs)("h1", {
                         className: "hero-anim hero-anim-1 font-display font-medium text-white leading-[0.95] tracking-[-0.035em] text-[clamp(3.15rem,10.4vw,7.25rem)] md:text-[clamp(2.5rem,6.5vw,5.8rem)] mx-auto",
-                        children: ["A escola brasileira ", (0, bt.jsx)("br", {
+                        children: ["A enfermagem ainda trabalha ", (0, bt.jsx)("br", {
                             className: "hidden sm:inline"
                         }), "de criaÃ§Ã£o com IA", (0, bt.jsx)("span", {
                             className: "text-primary",
@@ -53101,13 +53101,13 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                         })]
                     }), (0, bt.jsx)("p", {
                         className: "hero-anim hero-anim-2 mt-5 md:mt-8 max-w-[44ch] mx-auto font-body text-white/75 text-[17px] md:text-lg leading-[1.45]",
-                        children: "A plataforma onde criativos aprendem, criam e crescem usando inteligÃªncia artificial."
+                        children: "Enquanto outras profissões automatizam processos e constroem novas oportunidades, milhares de profissionais da enfermagem continuam presos à burocracia, sobrecarga e dependência exclusiva do plantão. O NurseHub nasceu para mudar isso. A comunidade da Nova Enfermagem Digital. O NurseHub utiliza inteligÃªncia artificial."
                     }), (0, bt.jsxs)("div", {
                         className: "hero-anim hero-anim-3 mt-7 md:mt-11 flex flex-row gap-2 sm:gap-3.5 items-center justify-center",
                         children: [(0, bt.jsxs)("button", {
                             onClick: () => r(!0),
                             className: "hero-cta-primary group inline-flex items-center justify-center gap-2 h-12 sm:h-14 px-5 sm:px-8 rounded-full font-display font-bold text-[13px] sm:text-[15px] tracking-[-0.005em] text-[hsl(0,0%,6%)] whitespace-nowrap",
-                            children: ["Quero fazer parte", (0, bt.jsx)(wi, {
+                            children: ["Tornar-se um membro fundador", (0, bt.jsx)(wi, {
                                 className: "w-4 h-4 sm:w-[18px] sm:h-[18px] transition-transform duration-200 ease-out group-hover:translate-x-0.5 group-hover:-translate-y-0.5",
                                 strokeWidth: 2.2
                             })]
@@ -53119,7 +53119,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                                 var e
                             },
                             className: "hero-cta-ghost group inline-flex items-center justify-center gap-2 h-12 sm:h-14 px-5 sm:px-8 rounded-full font-display font-medium text-[13px] sm:text-[15px] tracking-[-0.005em] text-white whitespace-nowrap border border-white/25",
-                            children: "Ver o que tem dentro"
+                            children: "Explorar a comunidade"
                         })]
                     })]
                 }), (0, bt.jsx)("div", {
@@ -53221,7 +53221,7 @@ var rV = (0, ye.lazy)(() => JB(() =>
     oV = (0, ye.lazy)(() => JB(() =>
         import ("./ProvaSocial-DHJbl6rJ.js"), __vite__mapDeps([17, 2, 1, 3]))),
     sV = (0, ye.lazy)(() => JB(() =>
-        import ("./AcademyPass-BcN7bbEV.js"), __vite__mapDeps([18, 2, 12, 1, 3, 8, 19]))),
+        import ("./NurseHub-BcN7bbEV.js"), __vite__mapDeps([18, 2, 12, 1, 3, 8, 19]))),
     cV = (0, ye.lazy)(() => JB(() =>
         import ("./FAQSection-bGXkXOnu.js"), __vite__mapDeps([20, 2, 21, 22, 1, 23, 24, 25, 12, 3]))),
     dV = (0, ye.lazy)(() => JB(() =>

@@ -409,7 +409,7 @@ var ge = j.forwardRef(({
 }));
 ge.displayName = ve.displayName;
 var je = [{
-        q: "Como faÃ§o para acessar o Academy Pass?",
+        q: "Como faÃ§o para acessar o NurseHub Pass?",
         a: "Assim que vocÃª finaliza a compra, enviamos um e-mail com todas as instruÃ§Ãµes de acesso pela plataforma. Ã‰ o mesmo e-mail usado na compra. Vale conferir o spam e lixo eletrÃ´nico ;)",
         visible: !0
     }, {
@@ -421,19 +421,19 @@ var je = [{
         a: "VocÃª tem 1 ano de acesso para usar quando e onde quiser!",
         visible: !0
     }, {
-        q: "Quantos cursos tem na Human Academy?",
-        a: "O Academy Pass te dÃ¡ acesso aos mais de 8 cursos completos da Human Academy, com mais de 330 aulas, mais de 70h de conteÃºdo gravado, alÃ©m das lives e workshops que ficam gravadas e disponÃ­veis na plataforma para vocÃª assistir no seu tempo.",
+        q: "Quantos cursos tem na NurseHub?",
+        a: "O NurseHub Pass te dÃ¡ acesso aos mais de 8 cursos completos da NurseHub, com mais de 330 aulas, mais de 70h de conteÃºdo gravado, alÃ©m das lives e workshops que ficam gravadas e disponÃ­veis na plataforma para vocÃª assistir no seu tempo.",
         visible: !0
     }, {
-        q: "Quais sÃ£o os bÃ´nus do Academy Pass?",
-        a: "AlÃ©m de todos os cursos e aulas ao vivo semanais, vocÃª tambÃ©m tem acesso Ã s lives, workshops gravados e atualizaÃ§Ãµes constantes. O Academy Pass inclui ainda 1 mÃªs de acesso ao LTX e mais de 20 ferramentas que vÃ£o te ajudar a criar com IA.",
+        q: "Quais sÃ£o os bÃ´nus do NurseHub Pass?",
+        a: "AlÃ©m de todos os cursos e aulas ao vivo semanais, vocÃª tambÃ©m tem acesso Ã s lives, workshops gravados e atualizaÃ§Ãµes constantes. O NurseHub Pass inclui ainda 1 mÃªs de acesso ao LTX e mais de 20 ferramentas que vÃ£o te ajudar a criar com IA.",
         visible: !0
     }, {
         q: "As aulas sÃ£o ao vivo ou gravadas?",
         a: "As aulas sÃ£o gravadas para vocÃª assistir no seu ritmo e toda semana nÃ³s temos aulas ao vivo dentro da plataforma. As lives e workshops tambÃ©m ficam gravados para vocÃª poder acessar depois!",
         visible: !0
     }, {
-        q: "O Academy Pass tem garantia?",
+        q: "O NurseHub Pass tem garantia?",
         a: "Sim, vocÃª tem 7 dias de garantia, vocÃª pode cancelar dentro desses dias de forma simples e tranquila!",
         visible: !0
     }, {
@@ -449,8 +449,8 @@ var je = [{
         a: "Sim, os nossos cursos vÃ£o do iniciante ao avanÃ§ado. Muitos comeÃ§am do bÃ¡sico e ensinam de forma prÃ¡tica, permitindo que quem nÃ£o tem experiÃªncia consiga acompanhar.",
         visible: !0
     }, {
-        q: "O Academy Pass Ã© atualizado com novas ferramentas de IA?",
-        a: "Com certeza! Sempre que surge algo relevante, a gente testa no estÃºdio, valida o workflow e depois grava novas aulas para atualizar o Academy Pass.",
+        q: "O NurseHub Pass Ã© atualizado com novas ferramentas de IA?",
+        a: "Com certeza! Sempre que surge algo relevante, a gente testa no estÃºdio, valida o workflow e depois grava novas aulas para atualizar o NurseHub Pass.",
         visible: !0
     }, {
         q: "Como funciona a comunidade da Human?",
@@ -458,15 +458,15 @@ var je = [{
         visible: !0
     }, {
         q: "As ferramentas estÃ£o inclusas no valor?",
-        a: "Todas as ferramentas de criaÃ§Ã£o de prompts estÃ£o inclusas no Academy Pass, sÃ£o elas que lhe farÃ£o economizar crÃ©ditos quando for criar nas ferramentas de geraÃ§Ã£o de imagem e vÃ­deos. As assinaturas das ferramentas de geraÃ§Ã£o de imagem e vÃ­deos nÃ£o estÃ£o inclusas, o que te dÃ¡ liberdade de escolha.",
+        a: "Todas as ferramentas de criaÃ§Ã£o de prompts estÃ£o inclusas no NurseHub Pass, sÃ£o elas que lhe farÃ£o economizar crÃ©ditos quando for criar nas ferramentas de geraÃ§Ã£o de imagem e vÃ­deos. As assinaturas das ferramentas de geraÃ§Ã£o de imagem e vÃ­deos nÃ£o estÃ£o inclusas, o que te dÃ¡ liberdade de escolha.",
         visible: !0
     }, {
         q: "O conteÃºdo Ã© focado em teoria ou prÃ¡tica? As aulas sÃ£o muito longas?",
         a: "A nossa metodologia Ã© prÃ¡tica, sem enrolaÃ§Ã£o! Ã‰ a forma como gostamos de ensinar. Com demonstraÃ§Ãµes reais de ferramentas e workflows aplicÃ¡veis no dia a dia. As aulas sÃ£o objetivas, pensadas para facilitar o aprendizado, sem ficar cansativo.",
         visible: !0
     }, {
-        q: "A Human Academy oferece desafios ou atividades prÃ¡ticas?",
-        a: "Sim! Frequentemente promovemos desafios criativos para incentivar a prÃ¡tica e o desenvolvimento dos alunos.",
+        q: "A NurseHub oferece desafios ou atividades prÃ¡ticas?",
+        a: "Sim! Frequentemente promovemos desafios práticos para incentivar a prÃ¡tica e o desenvolvimento dos alunos.",
         visible: !1
     }, {
         q: "Posso refazer um curso depois de concluir?",
@@ -485,7 +485,7 @@ var je = [{
         a: "Com certeza! Profissionais dessas Ã¡reas conseguem acelerar processos, ganhar produtividade e ampliar possibilidades criativas com IA.",
         visible: !1
     }, {
-        q: "O que diferencia a Human Academy de outros cursos de IA?",
+        q: "O que diferencia a NurseHub de outros cursos de IA?",
         a: "Nosso foco Ã© aplicaÃ§Ã£o prÃ¡tica, workflow validado no nosso estÃºdio, comunidade ativa e atualizaÃ§Ã£o constante. NÃ£o ensinamos sÃ³ ferramenta, ensinamos como usar de forma estratÃ©gica e profissional no dia a dia.",
         visible: !1
     }, {
@@ -498,7 +498,7 @@ var je = [{
         visible: !1
     }, {
         q: "Os cursos estÃ£o Ã  venda separadamente?",
-        a: "Os nossos cursos fazem parte de uma trilha integrada. Por isso, a gente oferece o Academy Pass como uma experiÃªncia completa.",
+        a: "Os nossos cursos fazem parte de uma trilha integrada. Por isso, a gente oferece o NurseHub Pass como uma experiÃªncia completa.",
         visible: !1
     }],
     ye = () => {
@@ -532,7 +532,7 @@ var je = [{
                     className: "flex flex-col items-center mb-10",
                     children: [(0, y.jsx)("img", {
                         src: "/assets/pass.svg",
-                        alt: "Human Pass",
+                        alt: "NurseHub Pass",
                         className: "h-6 md:h-7 w-auto opacity-90 mb-5 md:mb-6",
                         style: {
                             filter: "brightness(0)"
