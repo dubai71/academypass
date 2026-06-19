@@ -42,48 +42,25 @@ import {
 var I = e(a(), 1),
     R = t(),
     S = [{
-        icon: N,
-        title: "Comunidade",
-        desc: "+20.000 profissionais. Networking, dúvidas e projetos reais.",
-        wide: !0
+        icon: N, title: "Comunidade", desc: "+20.000 profissionais. Networking, dúvidas e projetos reais.", wide: !0
     }, {
-        icon: x,
-        title: "8 cursos",
-        desc: "330+ aulas práticas sobre o que o mercado usa agora."
+        icon: x, title: "Cursos", desc: "8 cursos com 330+ aulas práticas sobre o que o mercado usa agora."
     }, {
-        icon: h,
-        title: "Certificados",
-        desc: "Reconhecimento formal para o seu portfólio."
+        icon: h, title: "Certificados", desc: "Reconhecimento formal para o seu portfólio."
     }, {
-        icon: d,
-        title: "Aura AI",
-        desc: "A IA exclusiva que monta sua trilha de aprendizado.",
-        isAura: !0,
-        wide: !0
+        icon: d, title: "Mapa de Carreira", desc: "Trace sua rota com IA e atinja seus objetivos.", isAura: !0, wide: !0
     }, {
-        icon: k,
-        title: "1 mês de LTX grátis",
-        desc: "Acesso gratuito ao LTX Studio incluso no primeiro mês."
+        icon: k, title: "Eventos", desc: "Imersões ao vivo com profissionais que estão redefinindo a área."
     }, {
-        icon: p,
-        title: "Suporte e atualizações",
-        desc: "Conteúdo sempre atualizado enquanto você for assinante."
+        icon: p, title: "IA para Enfermagem", desc: "Ferramentas de IA construídas especificamente para a rotina hospitalar."
     }, {
-        icon: u,
-        title: "Replays de eventos",
-        desc: "Todas as aulas ao vivo organizadas e disponíveis."
+        icon: u, title: "Networking", desc: "Encontre colegas, parceiros e oportunidades únicas."
     }, {
-        icon: x,
-        title: "Biblioteca de Prompts",
-        desc: "Prompts contextualizados prontos pra usar no seu workflow."
+        icon: x, title: "Mercado", desc: "Vagas e projetos para quem sabe usar IA na saúde."
     }, {
-        icon: x,
-        title: "Ebooks",
-        desc: "Recursos extras pra aprofundar quando precisar."
+        icon: x, title: "Desafios", desc: "Pratique com casos reais e construa seu portfólio."
     }, {
-        icon: v,
-        title: "Vagas",
-        desc: "Oportunidades exclusivas para profissionais com domínio em IA."
+        icon: v, title: "Especialidades", desc: "Cursos focados em UTI, PA, Obstetrícia, e mais."
     }],
     W = ["14 aulas práticas, do briefing   primeira criação", "Pack de +60 prompts (texto, imagem e vídeo)", "2 ferramentas exclusivas do Human Labs", "1 mês de LTX Studio para praticar", "Certificado ao final"],
     P = [{
