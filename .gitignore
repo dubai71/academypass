@@ -9,7 +9,7 @@ node_modules/
 .next/
 out/
 build/
-dist/
+# dist/  # Allow dist for Vercel static deploy
 
 # System
 .DS_Store
