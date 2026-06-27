@@ -84,155 +84,55 @@ var s = e(),
                             background: "linear-gradient(155deg, rgba(255,255,255,0.04) 0%, rgba(255,255,255,0.015) 60%, rgba(255,255,255,0.03) 100%)",
                             boxShadow: "inset 0 0 0 1px rgba(255,255,255,0.07), inset 0 1px 0 rgba(255,255,255,0.06)"
                         },
-                        }), (0, s.jsxs)(a.div, {
-                                                    children: [(0, s.jsx)(a.span, {
-                                                        initial: {
-                                                            opacity: 0,
-                                                            y: 6
-                                                        },
-                                                        whileInView: {
-                                                            opacity: 1,
-                                                            y: 0
-                                                        },
-                                                        viewport: {
-                                                            once: !0,
-                                                            margin: "-80px"
-                                                        },
-                                                        transition: {
-                                                            duration: .5,
-                                                            delay: .12,
-                                                            ease: r
-                                                        },
-                                                        className: "block font-body text-[11px] md:text-[11px] text-primary tracking-[0.24em] uppercase mb-5 md:mb-7",
-                                                        children: "Você não precisa abandonar a enfermagem."
-                                                    }), (0, s.jsxs)(a.p, {
-                                                        initial: {
-                                                            opacity: 0,
-                                                            y: 8
-                                                        },
-                                                        whileInView: {
-                                                            opacity: 1,
-                                                            y: 0
-                                                        },
-                                                        viewport: {
-                                                            once: !0,
-                                                            margin: "-80px"
-                                                        },
-                                                        transition: {
-                                                            duration: .6,
-                                                            delay: .18,
-                                                            ease: r
-                                                        },
-                                                        className: "font-display font-medium text-white leading-[1.1] tracking-[-0.025em] text-[clamp(2.15rem,3vw,2.4rem)] max-w-[24ch]",
-                                                        style: {
-                                                            textWrap: "balance"
-                                                        },
-                                                        children: ["Precisa abandonar a forma antiga de exercê-la."]
-                                                    }), (0, s.jsx)(a.p, {
-                                                        initial: {
-                                                            opacity: 0,
-                                                            y: 8
-                                                        },
-                                                        whileInView: {
-                                                            opacity: 1,
-                                                            y: 0
-                                                        },
-                                                        viewport: {
-                                                            once: !0,
-                                                            margin: "-80px"
-                                                        },
-                                                        transition: {
-                                                            duration: .6,
-                                                            delay: .24,
-                                                            ease: r
-                                                        },
-                                                        className: "font-body text-[15px] md:text-[16px] text-white/65 leading-relaxed mt-3",
-                                                        children: "Hoje você perde horas com tarefas repetitivas."
-                                                    }), (0, s.jsx)(a.p, {
-                                                        initial: {
-                                                            opacity: 0,
-                                                            y: 8
-                                                        },
-                                                        whileInView: {
-                                                            opacity: 1,
-                                                            y: 0
-                                                        },
-                                                        viewport: {
-                                                            once: !0,
-                                                            margin: "-80px"
-                                                        },
-                                                        transition: {
-                                                            duration: .6,
-                                                            delay: .30,
-                                                            ease: r
-                                                        },
-                                                        className: "font-body text-[15px] md:text-[16px] text-white/65 leading-relaxed mt-2",
-                                                        children: "Documentação. Organização. Informações espalhadas."
-                                                    }), (0, s.jsx)(a.p, {
-                                                        initial: {
-                                                            opacity: 0,
-                                                            y: 8
-                                                        },
-                                                        whileInView: {
-                                                            opacity: 1,
-                                                            y: 0
-                                                        },
-                                                        viewport: {
-                                                            once: !0,
-                                                            margin: "-80px"
-                                                        },
-                                                        transition: {
-                                                            duration: .6,
-                                                            delay: .36,
-                                                            ease: r
-                                                        },
-                                                        className: "font-body text-[15px] md:text-[16px] text-white/65 leading-relaxed mt-2",
-                                                        children: "Cursos desconectados. Falta de networking. Tecnologia mal utilizada."
-                                                    }), (0, s.jsx)(a.p, {
-                                                        initial: {
-                                                            opacity: 0,
-                                                            y: 8
-                                                        },
-                                                        whileInView: {
-                                                            opacity: 1,
-                                                            y: 0
-                                                        },
-                                                        viewport: {
-                                                            once: !0,
-                                                            margin: "-80px"
-                                                        },
-                                                        transition: {
-                                                            duration: .6,
-                                                            delay: .42,
-                                                            ease: r
-                                                        },
-                                                        className: "font-body text-[15px] md:text-[16px] text-white/65 leading-relaxed mt-2",
-                                                        children: "O problema nunca foi falta de competência."
-                                                    }), (0, s.jsx)(a.p, {
-                                                        initial: {
-                                                            opacity: 0,
-                                                            y: 8
-                                                        },
-                                                        whileInView: {
-                                                            opacity: 1,
-                                                            y: 0
-                                                        },
-                                                        viewport: {
-                                                            once: !0,
-                                                            margin: "-80px"
-                                                        },
-                                                        transition: {
-                                                            duration: .6,
-                                                            delay: .48,
-                                                            ease: r
-                                                        },
-                                                        className: "font-display font-medium text-white leading-[1.1] tracking-[-0.025em] text-[clamp(1.6rem,2.5vw,2rem)] max-w-[28ch] mt-4",
-                                                        style: {
-                                                            textWrap: "balance"
-                                                        },
-                                                        children: "Foi falta de um ecossistema construído para a profissão."
-                                                    })]
-                                                    }),
+                        children: [(0, s.jsxs)("div", {
+                            children: [(0, s.jsx)(a.span, {
+                                initial: {
+                                    opacity: 0,
+                                    y: 6
+                                },
+                                whileInView: {
+                                    opacity: 1,
+                                    y: 0
+                                },
+                                viewport: {
+                                    once: !0,
+                                    margin: "-80px"
+                                },
+                                transition: {
+                                    duration: .5,
+                                    delay: .12,
+                                    ease: r
+                                },
+                                className: "block font-body text-[11px] md:text-[11px] text-primary tracking-[0.24em] uppercase mb-5 md:mb-7",
+                                children: "Pessoas reais. Criação real."
+                            }), (0, s.jsxs)(a.p, {
+                                initial: {
+                                    opacity: 0,
+                                    y: 8
+                                },
+                                whileInView: {
+                                    opacity: 1,
+                                    y: 0
+                                },
+                                viewport: {
+                                    once: !0,
+                                    margin: "-80px"
+                                },
+                                transition: {
+                                    duration: .6,
+                                    delay: .18,
+                                    ease: r
+                                },
+                                className: "font-display font-medium text-white leading-[1.1] tracking-[-0.025em] text-[clamp(2.15rem,3vw,2.4rem)] max-w-[24ch]",
+                                style: {
+                                    textWrap: "balance"
+                                },
+                                children: ["O mercado muda.", " ", (0, s.jsxs)("span", {
+                                    className: "text-white/50",
+                                    children: ["Quem está na frente acompanha qualquer", " ", "mudança."]
+                                })]
+                            })]
+                        }), (0, s.jsx)("div", {
                             className: "flex-1 min-h-8"
                         }), (0, s.jsxs)("div", {
                             children: [(0, s.jsx)(a.div, {

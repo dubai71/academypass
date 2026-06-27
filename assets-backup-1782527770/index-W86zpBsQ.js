@@ -1,4 +1,4 @@
-﻿const __vite__mapDeps = (i, m = __vite__mapDeps, d = (m.f || (m.f = ["assets/TextQuote-9YY9XBIi.js", "assets/query-BYnN4WbX.js", "assets/rolldown-runtime-C_ttsnZz.js", "assets/ui-BxzeyedK.js", "assets/TestimonialQuote-DZJ26ZsZ.js", "assets/LazyVideo-DeC_6Cb6.js", "assets/use-mobile-CjgID_fb.js", "assets/TresPilares-DBO2Ctq6.js", "assets/AuraStarIcon-ChQKhU1n.js", "assets/InlineCTA-C8gn7lR2.js", "assets/OQueTemDentro-Du6Ll8L-.js", "assets/CursosDestaque-DmDb4BDt.js", "assets/vendor-DRGPM_Mv.js", "assets/ComoFunciona-DVHzHciK.js", "assets/FerramentasGrid-B_rrSG52.js", "assets/JourneyPerfil-CyjxP6wo.js", "assets/ProfessoresSection-BCMzisS3.js", "assets/ProvaSocial-DHJbl6rJ.js", "assets/AcademyPass-BcN7bbEV.js", "assets/PreCheckoutModal-DNIyQdgw.js", "assets/FAQSection-bGXkXOnu.js", "assets/dist-BpxoO9O6.js", "assets/dist-DkmQ2f8N.js", "assets/dist-HsHFUleU.js", "assets/dist-C-5kN4J5.js", "assets/dist-CWjR5XLY.js", "assets/ConteudosSection-SYsy-irX.js", "assets/NewsletterSection-JnZrNylr.js", "assets/input-CVvwpgQW.js", "assets/Empresas-RuxyY8uP.js", "assets/label-DYYqw-kw.js", "assets/ConteudosHub-BXCPbFHd.js", "assets/Contato-B-5RsU5m.js", "assets/es2015-B8jlJ_Um.js", "assets/tslib.es6-B44ydMPJ.js", "assets/Privacidade-D3F0GGvx.js", "assets/Termos-D6U7LHPR.js", "assets/Cursos-w3sodpJr.js", "assets/CoursePage-CfwnTEC_.js", "assets/Planos-DnixhDti.js", "assets/Pass-BKmq_Pph.js", "assets/OQueTemDentro-BieMWUFW.js", "assets/AdminLogin-BW9KZR9Y.js", "assets/MFAEnroll-CN_NU26Z.js", "assets/AdminDashboard-DfYvZBCz.js", "assets/hooks-CT0VP7IX.js", "assets/FAQ-Dm6QG6lb.js", "assets/Blog-BCvfJUg8.js", "assets/seo-C8FjEaV2.js", "assets/BlogPost-xE81KuRE.js", "assets/Experience-Dtqj6GuJ.js", "assets/Starter-DyYIvAmu.js", "assets/StarterSuccess-BCN55LhB.js", "assets/PrimeiroAgente-C_8Q8Dgl.js", "assets/NotFound-BxutNAbG.js"]))) => i.map(i => d[i]);
+﻿const __vite__mapDeps = (i, m = __vite__mapDeps, d = (m.f || (m.f = ["assets/TextQuote-9YY9XBIi.js", "assets/query-BYnN4WbX.js", "assets/rolldown-runtime-C_ttsnZz.js", "assets/ui-BxzeyedK.js", "assets/TestimonialQuote-DZJ26ZsZ.js", "assets/LazyVideo-DeC_6Cb6.js", "assets/use-mobile-CjgID_fb.js", "assets/TresPilares-DBO2Ctq6.js", "assets/AuraStarIcon-ChQKhU1n.js", "assets/InlineCTA-C8gn7lR2.js", "assets/OQueTemDentro-Du6Ll8L-.js", "assets/CursosDestaque-DmDb4BDt.js", "assets/vendor-DRGPM_Mv.js", "assets/ComoFunciona-DVHzHciK.js", "assets/FerramentasGrid-B_rrSG52.js", "assets/JourneyPerfil-CyjxP6wo.js", "assets/ProfessoresSection-BCMzisS3.js", "assets/ProvaSocial-DHJbl6rJ.js", "assets/NurseHub-BcN7bbEV.js", "assets/PreCheckoutModal-DNIyQdgw.js", "assets/FAQSection-bGXkXOnu.js", "assets/dist-BpxoO9O6.js", "assets/dist-DkmQ2f8N.js", "assets/dist-HsHFUleU.js", "assets/dist-C-5kN4J5.js", "assets/dist-CWjR5XLY.js", "assets/ConteudosSection-SYsy-irX.js", "assets/NewsletterSection-JnZrNylr.js", "assets/input-CVvwpgQW.js", "assets/Empresas-RuxyY8uP.js", "assets/label-DYYqw-kw.js", "assets/ConteudosHub-BXCPbFHd.js", "assets/Contato-B-5RsU5m.js", "assets/es2015-B8jlJ_Um.js", "assets/tslib.es6-B44ydMPJ.js", "assets/Privacidade-D3F0GGvx.js", "assets/Termos-D6U7LHPR.js", "assets/Cursos-w3sodpJr.js", "assets/CoursePage-CfwnTEC_.js", "assets/Planos-DnixhDti.js", "assets/Pass-BKmq_Pph.js", "assets/OQueTemDentro-BieMWUFW.js", "assets/AdminLogin-BW9KZR9Y.js", "assets/MFAEnroll-CN_NU26Z.js", "assets/AdminDashboard-DfYvZBCz.js", "assets/hooks-CT0VP7IX.js", "assets/FAQ-Dm6QG6lb.js", "assets/Blog-BCvfJUg8.js", "assets/seo-C8FjEaV2.js", "assets/BlogPost-xE81KuRE.js", "assets/Experience-Dtqj6GuJ.js", "assets/Starter-DyYIvAmu.js", "assets/StarterSuccess-BCN55LhB.js", "assets/PrimeiroAgente-C_8Q8Dgl.js", "assets/NotFound-BxutNAbG.js"]))) => i.map(i => d[i]);
 import {
     a as e,
     r as t,
@@ -49947,8 +49947,8 @@ var hz, lz = {
     }, new dz(uz, lz.VITE_SUPABASE_PUBLISHABLE_KEY || lz.VITE_SUPABASE_ANON_KEY || lz.VITE_SUPABASE_KEY || "sb_publishable_IACZPfGyDv5_TkEP9oBEkg_MG_unRs5", hz)),
     yz = {
         beginner: "Iniciante",
-        intermediate: "IntermediÃ¡rio",
-        advanced: "AvanÃ§ado"
+        intermediate: "Intermediário",
+        advanced: "Avançado"
     },
     kz = e => {
         if (!e || e <= 0) return;
@@ -49995,7 +49995,7 @@ var hz, lz = {
     })(e, t)),
     vz = async () => {
         const e = await fetch("/api/courses-catalog");
-        if (!e.ok) throw new Error(`Falha ao carregar catÃ¡logo de cursos: ${e.status}`);
+        if (!e.ok) throw new Error(`Falha ao carregar catálogo de cursos: ${e.status}`);
         return e.json()
     },
     wz = (0, ye.createContext)(null),
@@ -50003,27 +50003,27 @@ var hz, lz = {
         oQueTemDentro: [{
             id: crypto.randomUUID(),
             icon: "",
-            label: "CURSOS",
+            label: "TRILHAS",
             title: "Cursos e Aulas",
-            desc: "Curadoria e prÃ¡tica. O que funciona no mundo real. Cada curso tem um recorte claro â€” sem enrolaÃ§Ã£o, sem mÃ³dulo de preenchimento.",
+            desc: "Curadoria e prática. O que funciona no mundo real. Cada curso tem um recorte claro â€” sem enrolação, sem módulo de preenchimento.",
             cta: "Conhecer cursos",
             ctaLink: "/cursos",
-            tags: ["Recorte claro", "PrÃ¡tica aplicada", "Atualizado"]
+            tags: ["Recorte claro", "Prática aplicada", "Atualizado"]
         }, {
             id: crypto.randomUUID(),
             icon: "",
             label: "AURA IA",
             title: "Aura, a IA que te acompanha estudando.",
-            desc: "A IA da Human que monta sua trilha de aprendizado no ritmo certo.",
+            desc: "A IA do NurseHub que monta sua trilha de aprendizado no ritmo certo.",
             cta: "Ver a Aura",
             ctaLink: "/aura",
-            tags: ["Contextual", "Plano de estudo", "RevisÃ£o"]
+            tags: ["Contextual", "Plano de estudo", "Revisão"]
         }, {
             id: crypto.randomUUID(),
             icon: "",
             label: "LABS",
-            title: "Labs de CriaÃ§Ã£o",
-            desc: "Templates, geradores, checklists e workflows. Ferramentas pra criar mais rÃ¡pido sem perder qualidade.",
+            title: "Labs de Criação",
+            desc: "Templates, geradores, checklists e workflows. Ferramentas pra criar mais rápido sem perder qualidade.",
             cta: "Explorar labs",
             ctaLink: "/labs",
             tags: ["Templates", "Geradores", "Workflows"]
@@ -50032,28 +50032,28 @@ var hz, lz = {
             icon: "",
             label: "BIBLIOTECA",
             title: "Biblioteca",
-            desc: "ReferÃªncias e prompts com contexto e aplicaÃ§Ã£o. Cards organizados por estilo, formato e objetivo.",
+            desc: "Referências e prompts com contexto e aplicação. Cards organizados por estilo, formato e objetivo.",
             cta: "Ver biblioteca",
             ctaLink: "/biblioteca",
-            tags: ["ReferÃªncias", "Prompts", "Por estilo"]
+            tags: ["Referências", "Prompts", "Por estilo"]
         }, {
             id: crypto.randomUUID(),
             icon: "",
             label: "COMUNIDADE",
             title: "Comunidade",
-            desc: "Pergunta boa, resposta boa. Suporte e troca de processo entre criativos que estÃ£o construindo com IA no dia a dia.",
+            desc: "Pergunta boa, resposta boa. Suporte e troca entre profissionais que estão construindo com IA no dia a dia.",
             cta: "Conhecer a comunidade",
             ctaLink: "/comunidade",
-            tags: ["+13.000 criativos", "Troca real", "Suporte"]
+            tags: ["+13.000 profissionais", "Troca real", "Suporte"]
         }, {
             id: crypto.randomUUID(),
             icon: "",
             label: "WORKFLOWS",
             title: "Workflows",
-            desc: "Uma nova forma de aprender. Passo a passo guiado, prÃ¡tico e direto ao ponto. Cada workflow Ã© uma entrega real.",
+            desc: "Uma nova forma de aprender. Passo a passo guiado, prático e direto ao ponto. Cada workflow é uma entrega real.",
             cta: "Ver Workflows",
             ctaLink: "/workflows",
-            tags: ["Passo a passo", "PrÃ¡tico", "New"]
+            tags: ["Passo a passo", "Prático", "New"]
         }],
         cursos: [],
         historias: [{
@@ -50069,7 +50069,7 @@ var hz, lz = {
             name: "Lucas Ribeiro",
             handle: "@lucasrib",
             avatar: "https://i.pravatar.cc/150?img=3",
-            text: "Os labs mudaram meu workflow. Sem exagero. Em uma semana jÃ¡ estava produzindo conteÃºdo profissional com IA.",
+            text: "Os labs mudaram meu workflow. Sem exagero. Em uma semana já estava produzindo conteúdo profissional com IA.",
             video: "https://videos.pexels.com/video-files/5377684/5377684-uhd_1440_2560_25fps.mp4"
         }, {
             id: crypto.randomUUID(),
@@ -50077,14 +50077,14 @@ var hz, lz = {
             name: "Camila Ferreira",
             handle: "@camilaf",
             avatar: "https://i.pravatar.cc/150?img=5",
-            text: "Finalmente um lugar que nÃ£o trata IA como mÃ¡gica. ConteÃºdo direto ao ponto, sem enrolaÃ§Ã£o."
+            text: "Finalmente um lugar que não trata IA como mágica. Conteúdo direto ao ponto, sem enrolação."
         }, {
             id: crypto.randomUUID(),
             type: "video",
             name: "Pedro Mendes",
             handle: "@pedromendes",
             avatar: "https://i.pravatar.cc/150?img=8",
-            text: "O Journey me fez criar consistÃªncia. Nunca pensei que gamificaÃ§Ã£o fosse funcionar comigo, mas funcionou demais.",
+            text: "O Journey me fez criar consistência. Nunca pensei que gamificação fosse funcionar comigo, mas funcionou demais.",
             video: "https://videos.pexels.com/video-files/4057411/4057411-uhd_1440_2560_25fps.mp4"
         }, {
             id: crypto.randomUUID(),
@@ -50092,7 +50092,7 @@ var hz, lz = {
             name: "Ana Beatriz",
             handle: "@anab.design",
             avatar: "https://i.pravatar.cc/150?img=9",
-            text: "Meus clientes notaram a diferenÃ§a na qualidade. Vale cada centavo do Academy Pass."
+            text: "Meus clientes notaram a diferença na qualidade. Vale cada centavo do NurseHub Pass."
         }, {
             id: crypto.randomUUID(),
             type: "video",
@@ -50107,60 +50107,60 @@ var hz, lz = {
             name: "Juliana Rocha",
             handle: "@jurocha",
             avatar: "https://i.pravatar.cc/150?img=16",
-            text: "A biblioteca de prompts Ã© absurda. Economizo horas toda semana com os templates prontos."
+            text: "A biblioteca de prompts é absurda. Economizo horas toda semana com os templates prontos."
         }, {
             id: crypto.randomUUID(),
             type: "text",
             name: "Rafael Duarte",
             handle: "@rafaduarte",
             avatar: "https://i.pravatar.cc/150?img=12",
-            text: "Melhor investimento que fiz esse ano. O conteÃºdo Ã© denso, prÃ¡tico e atualizado toda semana."
+            text: "Melhor investimento que fiz esse ano. O conteúdo é denso, prático e atualizado toda semana."
         }],
         ferramentas: [{
             id: crypto.randomUUID(),
             name: "ChatGPT",
             icon: "ðŸ’¬",
-            desc: "GeraÃ§Ã£o de texto, roteiro, copy e brainstorm com IA conversacional."
+            desc: "Geração de texto, roteiro, copy e brainstorm com IA conversacional."
         }, {
             id: crypto.randomUUID(),
             name: "Midjourney",
             icon: "ðŸŽ¨",
-            desc: "CriaÃ§Ã£o de imagens artÃ­sticas e conceituais com prompts de texto."
+            desc: "Criação de imagens artísticas e conceituais com prompts de texto."
         }, {
             id: crypto.randomUUID(),
-            name: "DALLÂ·E",
+            name: "DALL·E",
             icon: "ðŸ–¼ï¸",
-            desc: "GeraÃ§Ã£o e ediÃ§Ã£o de imagens direto na interface da OpenAI."
+            desc: "Geração e edição de imagens direto na interface da OpenAI."
         }, {
             id: crypto.randomUUID(),
             name: "Runway",
             icon: "ðŸŽ¬",
-            desc: "EdiÃ§Ã£o de vÃ­deo com IA: remoÃ§Ã£o de fundo, motion tracking e geraÃ§Ã£o."
+            desc: "Edição de vídeo com IA: remoção de fundo, motion tracking e geração."
         }, {
             id: crypto.randomUUID(),
             name: "Sora",
             icon: "ðŸ“¹",
-            desc: "GeraÃ§Ã£o de vÃ­deos realistas a partir de prompts de texto."
+            desc: "Geração de vídeos realistas a partir de prompts de texto."
         }, {
             id: crypto.randomUUID(),
             name: "Stable Diffusion",
             icon: "âš¡",
-            desc: "Modelo open-source para geraÃ§Ã£o de imagens com controle avanÃ§ado."
+            desc: "Modelo open-source para geração de imagens com controle avançado."
         }, {
             id: crypto.randomUUID(),
             name: "ElevenLabs",
             icon: "ðŸŽ™ï¸",
-            desc: "Clonagem e geraÃ§Ã£o de voz com qualidade profissional."
+            desc: "Clonagem e geração de voz com qualidade profissional."
         }, {
             id: crypto.randomUUID(),
             name: "Kling",
             icon: "ðŸŽžï¸",
-            desc: "GeraÃ§Ã£o de vÃ­deos com controle de cÃ¢mera e movimento."
+            desc: "Geração de vídeos com controle de c¢mera e movimento."
         }, {
             id: crypto.randomUUID(),
             name: "Cursor",
             icon: "âŒ¨ï¸",
-            desc: "Editor de cÃ³digo com IA integrada para desenvolvimento acelerado."
+            desc: "Editor de código com IA integrada para desenvolvimento acelerado."
         }, {
             id: crypto.randomUUID(),
             name: "Perplexity",
@@ -50170,7 +50170,7 @@ var hz, lz = {
             id: crypto.randomUUID(),
             name: "Claude",
             icon: "ðŸ§ ",
-            desc: "Assistente de IA para anÃ¡lise, escrita e raciocÃ­nio complexo."
+            desc: "Assistente de IA para análise, escrita e raciocínio complexo."
         }, {
             id: crypto.randomUUID(),
             name: "Figma AI",
@@ -50180,42 +50180,42 @@ var hz, lz = {
             id: crypto.randomUUID(),
             name: "Pika",
             icon: "ðŸŽ¥",
-            desc: "TransformaÃ§Ã£o de imagens em vÃ­deos com efeitos cinematogrÃ¡ficos."
+            desc: "Transformação de imagens em vídeos com efeitos cinematográficos."
         }, {
             id: crypto.randomUUID(),
             name: "Notion AI",
             icon: "ðŸ“",
-            desc: "AutomaÃ§Ã£o de documentos, resumos e organizaÃ§Ã£o de projetos."
+            desc: "Automação de documentos, resumos e organização de projetos."
         }, {
             id: crypto.randomUUID(),
             name: "Luma",
             icon: "ðŸŒ",
-            desc: "Captura 3D e geraÃ§Ã£o de cenas realistas com NeRF."
+            desc: "Captura 3D e geração de cenas realistas com NeRF."
         }, {
             id: crypto.randomUUID(),
             name: "Suno",
             icon: "ðŸŽµ",
-            desc: "CriaÃ§Ã£o de mÃºsicas completas com vocal e instrumentaÃ§Ã£o via IA."
+            desc: "Criação de músicas completas com vocal e instrumentação via IA."
         }, {
             id: crypto.randomUUID(),
             name: "Lovable",
             icon: "ðŸ’œ",
-            desc: "CriaÃ§Ã£o de aplicaÃ§Ãµes web completas via prompts de texto."
+            desc: "Criação de aplicações web completas via prompts de texto."
         }, {
             id: crypto.randomUUID(),
             name: "Leonardo.ai",
             icon: "ðŸŽ­",
-            desc: "GeraÃ§Ã£o de imagens com controle de estilo e consistÃªncia."
+            desc: "Geração de imagens com controle de estilo e consistência."
         }, {
             id: crypto.randomUUID(),
             name: "Descript",
             icon: "ðŸŽ§",
-            desc: "EdiÃ§Ã£o de Ã¡udio e vÃ­deo baseada em texto transcrito."
+            desc: "Edição de áudio e vídeo baseada em texto transcrito."
         }, {
             id: crypto.randomUUID(),
             name: "Gamma",
             icon: "ðŸ“Š",
-            desc: "ApresentaÃ§Ãµes e documentos visuais gerados por IA."
+            desc: "Apresentações e documentos visuais gerados por IA."
         }],
         plans: [{
             id: crypto.randomUUID(),
@@ -50224,11 +50224,11 @@ var hz, lz = {
             price: "R$ 152,60",
             installments: "12x",
             period: "2 anos de acesso",
-            cashPrice: "Ã€ vista R$1.831,20",
+            cashPrice: "€ vista R$1.831,20",
             discount: "20% OFF",
             highlight: !1,
-            desc: "Impulsione sua carreira com os melhores cursos e faÃ§a parte da maior comunidade criativa.",
-            features: ["23 Trilhas", "Todos os Cursos", "Acesso por 2 anos", "Certificado", "Mentorias em grupo", "Comunidade exclusiva", "ConteÃºdo das ImersÃµes", "App mobile"]
+            desc: "Impulsione sua carreira com os melhores cursos e faça parte da maior comunidade criativa.",
+            features: ["23 Trilhas", "Todos os Cursos", "Acesso por 2 anos", "Certificado", "Mentorias em grupo", "Comunidade exclusiva", "Conteúdo das Imersões", "App mobile"]
         }, {
             id: crypto.randomUUID(),
             name: "Pro",
@@ -50236,12 +50236,12 @@ var hz, lz = {
             price: "R$ 208,60",
             installments: "12x",
             period: "2 anos de acesso",
-            cashPrice: "Ã€ vista R$2.503,20",
+            cashPrice: "€ vista R$2.503,20",
             discount: "20% OFF",
             highlight: !0,
             badge: "Mais popular",
             desc: "Acelere seu aprendizado com a IA da Human e prepare-se para o mercado internacional.",
-            features: ["Tudo do Plus", "Aura IA, a inteligÃªncia artificial da Human", "MultilÃ­ngue â€” InglÃªs e Espanhol"]
+            features: ["Tudo do Plus", "Aura IA, a inteligência artificial da Human", "Multilíngue â€” Inglês e Espanhol"]
         }, {
             id: crypto.randomUUID(),
             name: "Expert",
@@ -50249,40 +50249,40 @@ var hz, lz = {
             price: "R$ 418,60",
             installments: "12x",
             period: "2 anos de acesso",
-            cashPrice: "Ã€ vista R$5.023,20",
+            cashPrice: "€ vista R$5.023,20",
             discount: "20% OFF",
             highlight: !1,
-            desc: "Para criativos ultra comprometidos atingirem seu objetivo mais rÃ¡pido.",
-            features: ["Tudo do Pro", "Aura IA com mensagens ILIMITADAS", "Aura Vision, a IA que enxerga suas dÃºvidas", "E-books exclusivos", "Talent Lab â€” mentorias individuais e vagas exclusivas"]
+            desc: "Para profissionais ultra comprometidos atingirem seu objetivo mais rápido.",
+            features: ["Tudo do Pro", "Aura IA com mensagens ILIMITADAS", "Aura Vision, a IA que enxerga suas dúvidas", "E-books exclusivos", "Talent Lab â€” mentorias individuais e vagas exclusivas"]
         }],
         faq: [{
             id: crypto.randomUUID(),
-            q: "Ã‰ pra iniciante ou precisa de repertÃ³rio?",
-            a: "Os dois. Se vocÃª estÃ¡ comeÃ§ando, os cursos te dÃ£o base. Se jÃ¡ tem repertÃ³rio, os labs e a biblioteca te fazem ir mais rÃ¡pido. Sem repetiÃ§Ã£o."
+            q: "É pra iniciante ou precisa de repertório?",
+            a: "Os dois. Se você está começando, os cursos te dão base. Se já tem repertório, os labs e a biblioteca te fazem ir mais rápido. Sem repetição."
         }, {
             id: crypto.randomUUID(),
-            q: "O Pass dÃ¡ acesso a tudo?",
+            q: "O Pass dá acesso a tudo?",
             a: "Sim. Cursos, labs, biblioteca, comunidade, Journey, Aura, certificados e vantagens. Tudo numa assinatura."
         }, {
             id: crypto.randomUUID(),
             q: "Posso cancelar?",
-            a: "Pode. Sem burocracia, sem pegadinha. Se o plano nÃ£o fizer sentido pra vocÃª, cancela quando quiser."
+            a: "Pode. Sem burocracia, sem pegadinha. Se o plano não fizer sentido pra você, cancela quando quiser."
         }, {
             id: crypto.randomUUID(),
             q: "Tem certificado?",
-            a: "Tem. Pra cada curso ou trilha que vocÃª concluir de verdade."
+            a: "Tem. Pra cada curso ou trilha que você concluir de verdade."
         }, {
             id: crypto.randomUUID(),
             q: "Como funciona a Aura?",
-            a: "A Aura Ã© sua IA assistente dentro da plataforma. Ela resume aulas, tira dÃºvidas, monta planos de estudo e revisa o que vocÃª jÃ¡ viu."
+            a: "A Aura é sua IA assistente dentro da plataforma. Ela resume aulas, tira dúvidas, monta planos de estudo e revisa o que você já viu."
         }, {
             id: crypto.randomUUID(),
-            q: "Como entram atualizaÃ§Ãµes?",
-            a: "Novos cursos, labs e conteÃºdos entram de forma contÃ­nua. Sem prometer datas â€” mas sem parar."
+            q: "Como entram atualizações?",
+            a: "Novos cursos, labs e conteúdos entram de forma contínua. Sem prometer datas â€” mas sem parar."
         }, {
             id: crypto.randomUUID(),
-            q: "Comunidade Ã© onde? Como Ã© o suporte?",
-            a: "A comunidade fica dentro da plataforma. Suporte por lÃ¡ tambÃ©m. Pergunta boa, resposta boa."
+            q: "Comunidade é onde? Como é o suporte?",
+            a: "A comunidade fica dentro da plataforma. Suporte por lá também. Pergunta boa, resposta boa."
         }],
         provaRapida: {
             stats: [{
@@ -50298,13 +50298,13 @@ var hz, lz = {
                 number: "+20",
                 label: "ferramentas exclusivas"
             }],
-            quote: "AmanhÃ£ tem outra ferramenta. O que fica Ã© repertÃ³rio, decisÃ£o e execuÃ§Ã£o.",
+            quote: "Amanhã tem outra ferramenta. O que fica é repertório, decisão e execução.",
             video: ""
         },
         ecossistema: [{
             id: crypto.randomUUID(),
             title: "Cursos",
-            desc: "Aulas diretas, do zero ao domÃ­nio.",
+            desc: "Aulas diretas, do zero ao domínio.",
             icon: "BookOpen",
             x: 12,
             y: 25
@@ -50325,14 +50325,14 @@ var hz, lz = {
         }, {
             id: crypto.randomUUID(),
             title: "Trilhas",
-            desc: "Caminhos por objetivo e nÃ­vel.",
+            desc: "Caminhos por objetivo e nível.",
             icon: "Layers",
             x: 22,
             y: 68
         }, {
             id: crypto.randomUUID(),
             title: "Comunidade",
-            desc: "Networking com criativos do Brasil.",
+            desc: "Networking com profissionais da enfermagem no Brasil.",
             icon: "Users",
             x: 65,
             y: 65
@@ -50361,63 +50361,63 @@ var hz, lz = {
         professores: [{
             id: crypto.randomUUID(),
             name: "Rafael Motta",
-            role: "Head de CriaÃ§Ã£o & IA",
+            role: "Head de Criação & IA",
             image: "",
-            desc: "Mais de 10 anos liderando projetos criativos em grandes agÃªncias. Especialista em integrar IA generativa ao fluxo criativo, do conceito Ã  entrega final."
+            desc: "Mais de 10 anos liderando projetos de saude digital em grandes agências. Especialista em integrar IA generativa ao fluxo criativo, do conceito   entrega final."
         }, {
             id: crypto.randomUUID(),
             name: "Lucas Andrade",
             role: "Diretor de Arte & Motion",
             image: "",
-            desc: "Diretor de arte com passagens por estÃºdios internacionais. Domina motion design, composiÃ§Ã£o visual e workflows com Runway, Midjourney e After Effects."
+            desc: "Diretor de arte com passagens por estúdios internacionais. Domina motion design, composição visual e workflows com Runway, Midjourney e After Effects."
         }, {
             id: crypto.randomUUID(),
             name: "Bruno Ferreira",
             role: "Videomaker & AI Filmmaker",
             image: "",
-            desc: "Pioneiro em produÃ§Ã£o de vÃ­deo com IA no Brasil. Criou campanhas virais usando Sora, Runway e Pika. Ensina do roteiro ao render final."
+            desc: "Pioneiro em produção de vídeo com IA no Brasil. Criou campanhas virais usando Sora, Runway e Pika. Ensina do roteiro ao render final."
         }, {
             id: crypto.randomUUID(),
             name: "Thiago Reis",
-            role: "Estrategista de ConteÃºdo",
+            role: "Estrategista de Conteúdo",
             image: "",
-            desc: "Estrategista que jÃ¡ escalou canais de 0 a 500k seguidores. Ensina como usar IA para criar conteÃºdo consistente e de alto impacto."
+            desc: "Estrategista que já escalou canais de 0 a 500k seguidores. Ensina como usar IA para criar conteúdo consistente e de alto impacto."
         }, {
             id: crypto.randomUUID(),
-            name: "AndrÃ© Bastos",
+            name: "André Bastos",
             role: "Developer & No-Code",
             image: "",
-            desc: "Full-stack developer que transita entre cÃ³digo e no-code. Especialista em Cursor, Lovable e automaÃ§Ãµes inteligentes para criativos."
+            desc: "Full-stack developer que transita entre código e no-code. Especialista em Cursor, Lovable e automações inteligentes para enfermagem."
         }, {
             id: crypto.randomUUID(),
             name: "Felipe Duarte",
             role: "Sound Designer & Produtor",
             image: "",
-            desc: "Produtor musical e sound designer com trabalhos em cinema e publicidade. Expert em ElevenLabs, Suno e produÃ§Ã£o de Ã¡udio com IA."
+            desc: "Produtor musical e sound designer com trabalhos em cinema e publicidade. Expert em ElevenLabs, Suno e produção de áudio com IA."
         }, {
             id: crypto.randomUUID(),
             name: "Caio Mendes",
             role: "Designer de Produto",
             image: "",
-            desc: "Designer de produto com foco em UX/UI e prototipaÃ§Ã£o rÃ¡pida. Usa Figma AI e ferramentas generativas para acelerar entregas de design."
+            desc: "Designer de produto com foco em UX/UI e prototipação rápida. Usa Figma AI e ferramentas generativas para acelerar entregas de design."
         }, {
             id: crypto.randomUUID(),
             name: "Matheus Lima",
-            role: "FotÃ³grafo & IA Visual",
+            role: "Fotógrafo & IA Visual",
             image: "",
-            desc: "FotÃ³grafo profissional que integrou IA ao seu processo criativo. Domina Midjourney, Stable Diffusion e Leonardo.ai para criaÃ§Ã£o visual."
+            desc: "Fotógrafo profissional que integrou IA ao seu processo criativo. Domina Midjourney, Stable Diffusion e Leonardo.ai para criação visual."
         }, {
             id: crypto.randomUUID(),
             name: "Gabriel Rocha",
             role: "Copywriter & Prompt Engineer",
             image: "",
-            desc: "Copywriter com mais de 8 anos de mercado. Hoje ensina como usar ChatGPT e Claude para criar textos persuasivos e roteiros de alta conversÃ£o."
+            desc: "Copywriter com mais de 8 anos de mercado. Hoje ensina como usar ChatGPT e Claude para criar textos persuasivos e roteiros de alta conversão."
         }, {
             id: crypto.randomUUID(),
             name: "Diego Santos",
             role: "3D Artist & IA Generativa",
             image: "",
-            desc: "Artista 3D que usa IA para acelerar modelagem, texturizaÃ§Ã£o e rendering. Especialista em Luma, Blender e pipelines generativos."
+            desc: "Artista 3D que usa IA para acelerar modelagem, texturização e rendering. Especialista em Luma, Blender e pipelines generativos."
         }]
     },
     xz = ["oQueTemDentro", "historias", "ferramentas", "plans", "faq", "provaRapida", "ecossistema", "professores"],
@@ -50459,7 +50459,7 @@ var hz, lz = {
             })()
         }, []);
         const o = (0, ye.useCallback)((e, t) => {
-                if ("cursos" === e) return void jT.error("Cursos sÃ£o gerenciados pela API do Academy Pass. Edite na fonte original.");
+                if ("cursos" === e) return void jT.error("Cursos são gerenciados pela API do NurseHub Pass. Edite na fonte original.");
                 const r = n.current[e];
                 a(a => ({ ...a,
                     [e]: t
@@ -51632,11 +51632,11 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
         dial: "+56"
     }, {
         code: "CO",
-        name: "ColÃ´mbia",
+        name: "Col´mbia",
         dial: "+57"
     }, {
         code: "MX",
-        name: "MÃ©xico",
+        name: "México",
         dial: "+52"
     }, {
         code: "PE",
@@ -51660,7 +51660,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
         dial: "+593"
     }, {
         code: "BO",
-        name: "BolÃ­via",
+        name: "Bolívia",
         dial: "+591"
     }, {
         code: "GB",
@@ -51676,7 +51676,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
         dial: "+49"
     }, {
         code: "FR",
-        name: "FranÃ§a",
+        name: "França",
         dial: "+33"
     }, {
         code: "ES",
@@ -51684,7 +51684,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
         dial: "+34"
     }, {
         code: "IT",
-        name: "ItÃ¡lia",
+        name: "Itália",
         dial: "+39"
     }, {
         code: "NL",
@@ -51692,19 +51692,19 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
         dial: "+31"
     }, {
         code: "BE",
-        name: "BÃ©lgica",
+        name: "Bélgica",
         dial: "+32"
     }, {
         code: "CH",
-        name: "SuÃ­Ã§a",
+        name: "Suíça",
         dial: "+41"
     }, {
         code: "AT",
-        name: "Ãustria",
+        name: "ustria",
         dial: "+43"
     }, {
         code: "SE",
-        name: "SuÃ©cia",
+        name: "Suécia",
         dial: "+46"
     }, {
         code: "NO",
@@ -51716,27 +51716,27 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
         dial: "+45"
     }, {
         code: "FI",
-        name: "FinlÃ¢ndia",
+        name: "Finl¢ndia",
         dial: "+358"
     }, {
         code: "PL",
-        name: "PolÃ´nia",
+        name: "Pol´nia",
         dial: "+48"
     }, {
         code: "CA",
-        name: "CanadÃ¡",
+        name: "Canadá",
         dial: "+1"
     }, {
         code: "AU",
-        name: "AustrÃ¡lia",
+        name: "Austrália",
         dial: "+61"
     }, {
         code: "NZ",
-        name: "Nova ZelÃ¢ndia",
+        name: "Nova Zel¢ndia",
         dial: "+64"
     }, {
         code: "JP",
-        name: "JapÃ£o",
+        name: "Japão",
         dial: "+81"
     }, {
         code: "KR",
@@ -51748,11 +51748,11 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
         dial: "+86"
     }, {
         code: "IN",
-        name: "Ãndia",
+        name: "ndia",
         dial: "+91"
     }, {
         code: "AE",
-        name: "Emirados Ãrabes",
+        name: "Emirados rabes",
         dial: "+971"
     }, {
         code: "IL",
@@ -51760,7 +51760,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
         dial: "+972"
     }, {
         code: "ZA",
-        name: "Ãfrica do Sul",
+        name: "frica do Sul",
         dial: "+27"
     }],
     jB = e => e.toUpperCase().split("").map(e => String.fromCodePoint(127462 + e.charCodeAt(0) - 65)).join(""),
@@ -51780,7 +51780,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                 children: (0, bt.jsxs)("button", {
                     type: "button",
                     className: "shrink-0 inline-flex items-center gap-2 h-12 pl-3.5 pr-2.5 rounded-l-full border border-r-0 border-white/15 bg-white/[0.04] hover:bg-white/[0.08] hover:border-white/25 transition-colors",
-                    "aria-label": "Selecionar paÃ­s",
+                    "aria-label": "Selecionar país",
                     children: [(0, bt.jsx)("span", {
                         className: "text-[18px] leading-none",
                         "aria-hidden": !0,
@@ -51809,7 +51809,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                                 autoFocus: !0,
                                 value: i,
                                 onChange: e => n(e.target.value),
-                                placeholder: "Buscar paÃ­s",
+                                placeholder: "Buscar país",
                                 className: "w-full h-9 pl-9 pr-3 rounded-lg bg-white/[0.03] border border-white/10 text-white placeholder:text-white/30 font-body text-[13px] outline-none focus:border-white/25 transition-colors"
                             })]
                         })
@@ -51877,7 +51877,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                             className: "flex items-center justify-between px-6 py-4 border-b border-white/[0.06]",
                             children: [(0, bt.jsx)("span", {
                                 className: "font-body text-[10px] tracking-[0.22em] uppercase text-white/45",
-                                children: "PrÃ©-cadastro Â· Pass"
+                                children: "Pré-cadastro · Pass"
                             }), (0, bt.jsx)(yD, {
                                 className: "w-9 h-9 rounded-full border border-white/15 bg-white/[0.04] text-white/80 hover:text-white hover:bg-white/[0.08] flex items-center justify-center transition-colors",
                                 "aria-label": "Fechar",
@@ -51946,7 +51946,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                                         asChild: !0,
                                         children: (0, bt.jsxs)("h2", {
                                             className: "font-display font-light text-white leading-[1.05] tracking-[-0.025em] text-[clamp(1.5rem,3.4vw,2rem)] max-w-[20ch] text-center mx-auto",
-                                            children: ["PrÃ©-cadastro concluÃ­do", (0, bt.jsx)("span", {
+                                            children: ["Pré-cadastro concluído", (0, bt.jsx)("span", {
                                                 className: "text-[hsl(210_40%_75%)]",
                                                 children: "."
                                             })]
@@ -51968,12 +51968,12 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                                     },
                                     className: "mt-3 font-body text-white/60 text-[14px] leading-[1.6] max-w-[42ch] mx-auto text-center",
                                     children: f ? (0, bt.jsxs)(bt.Fragment, {
-                                        children: ["JÃ¡ jÃ¡ alguÃ©m do time da Human entra em contato com vocÃª,", " ", (0, bt.jsx)("span", {
+                                        children: ["Já já alguém do time da Human entra em contato com você,", " ", (0, bt.jsx)("span", {
                                             className: "text-white/90",
                                             children: f
                                         }), ". Se preferir, pode entrar em contato com o nosso time agora."]
                                     }) : (0, bt.jsx)(bt.Fragment, {
-                                        children: "JÃ¡ jÃ¡ alguÃ©m do time da Human entra em contato com vocÃª. Se preferir, pode entrar em contato com o nosso time agora."
+                                        children: "Já já alguém do time da Human entra em contato com você. Se preferir, pode entrar em contato com o nosso time agora."
                                     })
                                 }), (0, bt.jsx)(F.div, {
                                     initial: {
@@ -52001,15 +52001,15 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                                             className: "min-w-0",
                                             children: [(0, bt.jsx)("div", {
                                                 className: "font-body text-[9.5px] tracking-[0.24em] uppercase text-white/45 mb-2",
-                                                children: "VocÃª se inscreveu pra"
+                                                children: "Você se inscreveu pra"
                                             }), (0, bt.jsx)("img", {
                                                 src: IB,
-                                                alt: "Academy Pass",
+                                                alt: "NurseHub Pass",
                                                 className: "h-6 w-auto object-contain",
                                                 draggable: !1
                                             }), (0, bt.jsx)("div", {
                                                 className: "mt-2.5 font-body text-[12px] text-white/55 leading-[1.5]",
-                                                children: "Assinatura completa Â· Acesso Ã  plataforma + Aura AI"
+                                                children: "Assinatura completa · Acesso   plataforma + Aura AI"
                                             })]
                                         })
                                     })
@@ -52074,18 +52074,18 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                                             phone: s,
                                             fields: {
                                                 country: a.code,
-                                                product: "Academy Pass",
+                                                product: "NurseHub Pass",
                                                 submittedAt: (new Date).toISOString()
                                             },
                                             tags: ["APASS - Interesse checkout"]
                                         });
                                     l(!1), d.ok ? (CB({
-                                        contentName: "Academy Pass - Interesse checkout",
+                                        contentName: "NurseHub Pass - Interesse checkout",
                                         contentCategory: "checkout_interest",
                                         source: "pass-interest-modal",
-                                        product: "Academy Pass",
+                                        product: "NurseHub Pass",
                                         status: "submitted"
-                                    }), p(!0)) : k("NÃ£o foi possÃ­vel enviar agora. Tenta de novo em alguns segundos ou fala com a gente no WhatsApp.")
+                                    }), p(!0)) : k("Não foi possível enviar agora. Tenta de novo em alguns segundos ou fala com a gente no WhatsApp.")
                                 },
                                 className: "p-6 sm:p-8",
                                 initial: {
@@ -52110,7 +52110,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                                     className: "flex items-center gap-3 mb-6",
                                     children: (0, bt.jsx)("img", {
                                         src: IB,
-                                        alt: "Academy Pass",
+                                        alt: "NurseHub Pass",
                                         className: "h-7 w-auto object-contain",
                                         draggable: !1
                                     })
@@ -52125,7 +52125,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                                     })
                                 }), (0, bt.jsx)("p", {
                                     className: "mt-3 font-body text-white/55 text-[14px] leading-[1.55] max-w-[44ch]",
-                                    children: "Deixa seus dados aqui, alguÃ©m do time da Human entra em contato com vocÃª pra fechar sua assinatura."
+                                    children: "Deixa seus dados aqui, alguém do time da Human entra em contato com você pra fechar sua assinatura."
                                 }), (0, bt.jsxs)("div", {
                                     className: "mt-7 space-y-3.5",
                                     children: [(0, bt.jsxs)("div", {
@@ -52219,7 +52219,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                                     })]
                                 }), (0, bt.jsx)("p", {
                                     className: "mt-4 font-body text-[11px] leading-[1.55] text-white/35",
-                                    children: "Seus dados ficam sÃ³ com a Human, usados pra organizar seu acesso ao Pass."
+                                    children: "Seus dados ficam só com a Human, usados pra organizar seu acesso ao Pass."
                                 })]
                             }, "form")
                         })]
@@ -52230,7 +52230,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
     },
     RB = [{
         label: "Blog",
-        desc: "Acesse nosso conteÃºdo gratuito",
+        desc: "Acesse nosso conteúdo gratuito",
         icon: jp,
         href: "/blog"
     }, {
@@ -52241,12 +52241,12 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
         disabled: !0
     }, {
         label: "Human TV",
-        desc: "Acompanhe nosso conteÃºdo em vÃ­deo",
+        desc: "Acompanhe nosso conteúdo em vídeo",
         icon: sq,
         href: "https://tv.humanacademy.ai/"
     }, {
         label: "Podcast",
-        desc: "Conversas com profissionais criativos",
+        desc: "Conversas com profissionais de saúde",
         icon: $v,
         href: "https://open.spotify.com/show/2PPKluHDKjqf2KXSEBb2aw"
     }, {
@@ -52261,7 +52261,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
         href: "https://humanupdate.substack.com/"
     }],
     EB = [{
-        label: "O que Ã©",
+        label: "O que é",
         id: "vantagens"
     }, {
         label: "O que tem dentro",
@@ -52405,7 +52405,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                     className: "flex items-center shrink-0 pointer-events-auto relative z-10",
                     children: (0, bt.jsx)("img", {
                         src: Lz,
-                        alt: "Human Academy",
+                        alt: "NurseHub",
                         className: "h-4 w-auto transition-all duration-500 " + (c ? "brightness-0 opacity-70 hover:opacity-100" : "brightness-0 invert opacity-80 hover:opacity-100")
                     })
                 }), (0, bt.jsx)("div", {
@@ -52424,7 +52424,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                             onMouseLeave: () => r(!1),
                             children: [(0, bt.jsxs)("button", {
                                 className: "group relative overflow-hidden px-4 py-2 text-[11px] font-body tracking-[0.02em] uppercase rounded-full transition-colors flex items-center gap-1.5 " + (a ? c ? "bg-black/10 text-foreground" : "bg-white/10 text-white" : c ? "text-foreground/60 hover:bg-black/[0.06]" : "text-white/60 hover:bg-white/[0.06]"),
-                                children: ["ConteÃºdos", (0, bt.jsx)(vc, {
+                                children: ["Conteúdos", (0, bt.jsx)(vc, {
                                     className: "w-3 h-3 transition-transform duration-300 " + (a ? "rotate-180" : "")
                                 })]
                             }), a && (0, bt.jsx)("div", {
@@ -52526,7 +52526,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                     }), (0, bt.jsxs)("button", {
                         onClick: () => s(!0),
                         className: `${k&&i?"h-8 px-4":"h-10 px-5"} inline-flex items-center justify-center gap-1.5 text-[11px] font-body font-medium tracking-[0.02em] uppercase rounded-full transition-all duration-500 active:scale-[0.97] ${c?"bg-foreground text-background hover:bg-foreground/90":"bg-white text-black hover:bg-white/90"}`,
-                        children: ["FaÃ§a parte", (0, bt.jsx)("span", {
+                        children: ["Faça parte", (0, bt.jsx)("span", {
                             "aria-hidden": "true",
                             className: "text-[14px] leading-none translate-y-[-1px]",
                             children: "â€º"
@@ -52604,7 +52604,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                             className: "menu-item menu-item-6 px-2 pt-3 pb-1.5",
                             children: (0, bt.jsx)("span", {
                                 className: "font-body text-[10px] font-medium text-white/35 tracking-[0.22em] uppercase",
-                                children: "ConteÃºdos"
+                                children: "Conteúdos"
                             })
                         }), (0, bt.jsx)("div", {
                             className: "menu-item menu-item-6 grid grid-cols-2 gap-1.5 flex-1 min-h-0",
@@ -52671,7 +52671,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                                 style: {
                                     boxShadow: "inset 0 1px 0 rgba(255,255,255,0.6), 0 8px 24px rgba(0,0,0,0.45), 0 0 0 1px rgba(255,255,255,0.08)"
                                 },
-                                children: ["FaÃ§a parte", (0, bt.jsx)("span", {
+                                children: ["Faça parte", (0, bt.jsx)("span", {
                                     "aria-hidden": "true",
                                     className: "text-[15px] leading-none translate-y-[-1px]",
                                     children: "â€º"
@@ -52750,7 +52750,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                         className: "mb-14 md:mb-20",
                         children: (0, bt.jsx)("img", {
                             src: "/assets/pass.svg",
-                            alt: "Human Pass",
+                            alt: "NurseHub Pass",
                             className: "h-8 md:h-9 w-auto opacity-90",
                             draggable: !1
                         })
@@ -52791,7 +52791,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                             }), (0, bt.jsxs)("div", {
                                 children: [(0, bt.jsx)("span", {
                                     className: "block font-body text-[10px] tracking-[0.22em] uppercase text-white/35 mb-4",
-                                    children: "ConteÃºdos"
+                                    children: "Conteúdos"
                                 }), (0, bt.jsx)("ul", {
                                     className: "space-y-2",
                                     children: BB.map(e => (0, bt.jsx)("li", {
@@ -52827,7 +52827,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                         children: [(0, bt.jsx)("p", {
                             className: "font-body text-[11px] text-white/30 cursor-default",
                             onDoubleClick: () => e("/admin"),
-                            children: "Â© 2026 Human Academy"
+                            children: "© 2026 NurseHub®"
                         }), (0, bt.jsxs)("div", {
                             className: "flex gap-6",
                             children: [(0, bt.jsx)(I, {
@@ -53093,21 +53093,21 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                     className: "relative z-10 w-full px-5 md:px-10 max-w-[960px] mx-auto text-center pt-28 pb-28 md:pt-32 md:pb-32",
                     children: [(0, bt.jsxs)("h1", {
                         className: "hero-anim hero-anim-1 font-display font-medium text-white leading-[0.95] tracking-[-0.035em] text-[clamp(3.15rem,10.4vw,7.25rem)] md:text-[clamp(2.5rem,6.5vw,5.8rem)] mx-auto",
-                        children: ["A escola brasileira ", (0, bt.jsx)("br", {
-                            className: "hidden sm:inline"
-                        }), "de criaÃ§Ã£o com IA", (0, bt.jsx)("span", {
-                            className: "text-primary",
-                            children: "."
-                        })]
+                        children: ["A enfermagem ainda trabalha como ", (0, bt.jsx)("br", {
+                                                    className: "hidden sm:inline"
+                                                }), "se fosse 2010.", (0, bt.jsx)("span", {
+                                                    className: "text-primary",
+                                                    children: ""
+                                                })]
                     }), (0, bt.jsx)("p", {
                         className: "hero-anim hero-anim-2 mt-5 md:mt-8 max-w-[44ch] mx-auto font-body text-white/75 text-[17px] md:text-lg leading-[1.45]",
-                        children: "A plataforma onde criativos aprendem, criam e crescem usando inteligÃªncia artificial."
+                        children: "Enquanto outras profissões automatizam processos e constroem novas oportunidades, milhares de profissionais da enfermagem continuam presos à burocracia, sobrecarga e dependência exclusiva do plantão. O NurseHub® nasceu para mudar isso. A comunidade da Nova Enfermagem Digital."
                     }), (0, bt.jsxs)("div", {
                         className: "hero-anim hero-anim-3 mt-7 md:mt-11 flex flex-row gap-2 sm:gap-3.5 items-center justify-center",
                         children: [(0, bt.jsxs)("button", {
                             onClick: () => r(!0),
                             className: "hero-cta-primary group inline-flex items-center justify-center gap-2 h-12 sm:h-14 px-5 sm:px-8 rounded-full font-display font-bold text-[13px] sm:text-[15px] tracking-[-0.005em] text-[hsl(0,0%,6%)] whitespace-nowrap",
-                            children: ["Quero fazer parte", (0, bt.jsx)(wi, {
+                            children: ["Tornar-se um membro fundador", (0, bt.jsx)(wi, {
                                 className: "w-4 h-4 sm:w-[18px] sm:h-[18px] transition-transform duration-200 ease-out group-hover:translate-x-0.5 group-hover:-translate-y-0.5",
                                 strokeWidth: 2.2
                             })]
@@ -53119,7 +53119,7 @@ var bB = (e, t) => "undefined" != typeof window && "function" == typeof window.f
                                 var e
                             },
                             className: "hero-cta-ghost group inline-flex items-center justify-center gap-2 h-12 sm:h-14 px-5 sm:px-8 rounded-full font-display font-medium text-[13px] sm:text-[15px] tracking-[-0.005em] text-white whitespace-nowrap border border-white/25",
-                            children: "Ver o que tem dentro"
+                            children: "Explorar a comunidade"
                         })]
                     })]
                 }), (0, bt.jsx)("div", {
@@ -53221,7 +53221,7 @@ var rV = (0, ye.lazy)(() => JB(() =>
     oV = (0, ye.lazy)(() => JB(() =>
         import ("./ProvaSocial-DHJbl6rJ.js"), __vite__mapDeps([17, 2, 1, 3]))),
     sV = (0, ye.lazy)(() => JB(() =>
-        import ("./AcademyPass-BcN7bbEV.js"), __vite__mapDeps([18, 2, 12, 1, 3, 8, 19]))),
+        import ("./NurseHub-BcN7bbEV.js"), __vite__mapDeps([18, 2, 12, 1, 3, 8, 19]))),
     cV = (0, ye.lazy)(() => JB(() =>
         import ("./FAQSection-bGXkXOnu.js"), __vite__mapDeps([20, 2, 21, 22, 1, 23, 24, 25, 12, 3]))),
     dV = (0, ye.lazy)(() => JB(() =>
